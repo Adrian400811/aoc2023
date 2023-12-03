@@ -1,4 +1,4 @@
-with open("day2input.txt") as inpFile:
+with open("input.txt") as inpFile:
      inp = [line.strip() for line in inpFile]
 
 gameid = []

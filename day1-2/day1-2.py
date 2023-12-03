@@ -1,4 +1,4 @@
-with open("day1input.txt") as inpFile:
+with open("input.txt") as inpFile:
      inp = set(inpFile.read().split())
 
 dig = []
